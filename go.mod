@@ -1,4 +1,4 @@
-module github.com/cxjava/heroku-aria2c-youtube-dl
+module github.com/cgenhgd/heroku-aria2c-youtube-dl
 
 go 1.14
 
